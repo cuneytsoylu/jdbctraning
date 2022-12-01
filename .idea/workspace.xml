@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57eb218c-edf9-42b9-bc6b-5272960610d0" name="Changes" comment="28112022" />
+    <list default="true" id="57eb218c-edf9-42b9-bc6b-5272960610d0" name="Changes" comment="01122022">
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/CallableStatement01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc/PreparedStatement01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jdbc/PreparedStatement01.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +28,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HxWARNpole4Ro3o9bn2nuJWKb9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -132,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669644720497</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="01122022">
+      <created>1669896092474</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669896092474</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +161,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="28112022" />
-    <option name="LAST_COMMIT_MESSAGE" value="28112022" />
+    <MESSAGE value="01122022" />
+    <option name="LAST_COMMIT_MESSAGE" value="01122022" />
   </component>
 </project>
