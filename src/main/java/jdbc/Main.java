@@ -12,7 +12,7 @@ public class Main {
         Connection con = db.connect_to_db("techproed","postgres","aSDFGH1.@?-");
 
         //Yeni table oluşturma methodunu çağır.
-        db.createTable(con,"employees");
+        db.createTable(con,"employee");
 
 
 
